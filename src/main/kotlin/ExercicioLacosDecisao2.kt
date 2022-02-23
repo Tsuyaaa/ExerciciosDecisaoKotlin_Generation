@@ -44,5 +44,5 @@ fun main() {
         numMenor = num2
 
     }
-    print("\n$numMaior > $numMedio > $numMenor")
+    print("\n$numMenor < $numMedio < $numMaior")
 }
